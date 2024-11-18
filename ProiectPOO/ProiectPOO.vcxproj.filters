@@ -18,5 +18,8 @@
     <ClCompile Include="Test01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tema1POO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

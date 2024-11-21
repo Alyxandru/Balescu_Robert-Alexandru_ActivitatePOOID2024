@@ -21,5 +21,8 @@
     <ClCompile Include="Tema1POO.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

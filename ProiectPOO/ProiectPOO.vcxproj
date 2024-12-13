@@ -130,6 +130,7 @@
     <ClCompile Include="Pix.cpp" />
     <ClCompile Include="Practice.cpp" />
     <ClCompile Include="practice2.cpp" />
+    <ClCompile Include="Practice3.cpp" />
     <ClCompile Include="Tema1POO.cpp" />
     <ClCompile Include="Test01.cpp" />
   </ItemGroup>
